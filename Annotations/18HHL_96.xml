@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Mathi</folder>
+	<filename>18HHL_96.jpg</filename>
+	<path>E:\Uni\FYP\GRI_Content\Images\Annotations\ESG Page Images-20210410T183233Z-001\Mathi\18HHL_96.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4134</width>
+		<height>5847</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>370</xmin>
+			<ymin>861</ymin>
+			<xmax>2632</xmax>
+			<ymax>1524</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>370</xmin>
+			<ymin>1830</ymin>
+			<xmax>2620</xmax>
+			<ymax>2249</ymax>
+		</bndbox>
+	</object>
+</annotation>

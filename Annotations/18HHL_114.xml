@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Nadun</folder>
+	<filename>18HHL_114.jpg</filename>
+	<path>F:\UoM\FYP\Codes\Annotations\Set 2\ESG Page Images-20210410T183233Z-001\Nadun\18HHL_114.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4134</width>
+		<height>5847</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>345</xmin>
+			<ymin>4418</ymin>
+			<xmax>2645</xmax>
+			<ymax>4980</ymax>
+		</bndbox>
+	</object>
+</annotation>
